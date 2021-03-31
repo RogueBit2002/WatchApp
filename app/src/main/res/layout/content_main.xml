@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="#FF9800"
     android:backgroundTint="#959090"
-    android:foregroundTint="#FFC107"
+    android:foregroundTint="#FF9800"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:showIn="@layout/app_bar_main">
 
